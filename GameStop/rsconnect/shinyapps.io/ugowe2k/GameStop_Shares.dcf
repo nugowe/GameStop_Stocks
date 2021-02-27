@@ -1,12 +1,1 @@
-name: GameStop_Shares
-title: GameStop_Shares
-username:
-account: ugowe2k
-server: shinyapps.io
-hostUrl: https://api.shinyapps.io/v1
-appId: 3706406
-bundleId: 4277470
-url: https://ugowe2k.shinyapps.io/GameStop_Shares/
-when: 1614386758.22472
-asMultiple: FALSE
-asStatic: FALSE
+
